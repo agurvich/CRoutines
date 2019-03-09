@@ -1,0 +1,6 @@
+[submodule "CFoF"]
+	path = CFoF
+	url = git@github.com:agurvich/CFoF.git
+[submodule "CPotential"]
+	path = CPotential
+	url = git@github.com:agurvich/CPotential.git
